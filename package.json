@@ -1,0 +1,29 @@
+{
+  "name": "project",
+  "version": "1.0.0",
+  "description": "This is a test project.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "gazanfar": "echo 'My name is Gazanfar'",
+    "start": "node index.js"
+  },
+  "keywords": [
+    "test",
+    "package"
+  ],
+  "author": "Gazanfar Gazanfarli",
+  "license": "ISC",
+  "dependencies": {
+    "mongoose": "^5.12.5",
+    "nodemailer": "^6.5.0"
+  },
+  "devDependencies": {
+    "webpack-cli": "^4.6.0"
+  },
+
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Qezenfer167/Test-Project.git"
+  }
+}
